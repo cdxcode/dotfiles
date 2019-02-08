@@ -1,5 +1,9 @@
 #!/usr/bin/env fish
 
-echo 'Installed Successfully!!'
+{
 
-return 0
+    echo 'Installed Successfully!!'
+
+    return 0
+
+}
