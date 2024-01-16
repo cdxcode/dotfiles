@@ -1,9 +1,0 @@
-#!/usr/bin/env fish
-
-function main
-    echo "Running Main..."
-end
-
-main
-
-echo 'Installed Successfully!!'
